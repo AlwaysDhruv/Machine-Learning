@@ -1,3 +1,10 @@
+#---------------------------------------------------
+#Definition And How to Used
+#Logistic regression is a supervised learning algorithm used for classification tasks. It predicts the probability that a given input belongs to a particular class, typically in binary classification (e.g., 00 or 1, True or False).
+#first of all run the programme and give the depended column and after their class value.
+#That Will Return The whole number <0.50 = no and >0.50 = yes.
+#---------------------------------------------------
+
 #include<iostream>
 #include <cmath>
 
