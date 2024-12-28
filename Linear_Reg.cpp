@@ -1,3 +1,9 @@
+#---------------------------------------------------
+#Definition And How to Used
+#Linear regression is a supervised learning algorithm used for predicting a continuous target variable based on one or more input features.
+#first of all run the programme and give the depended column and after their class value.
+#That Will Return The futured value based on your give data.
+#---------------------------------------------------
 #include<iostream>
 #include <cmath>
 
