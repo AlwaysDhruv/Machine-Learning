@@ -1,3 +1,13 @@
+#Definition And Used
+#----------------------------------------------------------
+#A decision tree is a supervised learning algorithm used for classification and regression tasks.
+#It works by splitting the dataset into smaller subsets based on feature values, forming a tree 
+#structure with decision nodes and leaf nodes.
+#Each internal node represents a feature-based decision, and each leaf node represents an output class or value.
+#----------------------------------------------------------
+#This Model Will Support Only string values and gives the rootnode and child node
+#----------------------------------------------------------
+
 #include<iostream>
 #include<vector>
 #include<string>
