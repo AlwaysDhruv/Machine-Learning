@@ -1,3 +1,10 @@
+#---------------------------------------------------
+#Definition And How to Used
+#K-Nearest Neighbors (KNN) is a supervised learning algorithm used for classification and regression tasks. It classifies data points or predicts output values based on the 𝑘 closest data points (neighbors) in the training set.
+#first of all run the programme and give the depended column and after their class value.
+#That Will Return The Three Value Which Value Are greater than those 2 value that will Knn.
+#---------------------------------------------------
+
 #include<iostream>
 #include<conio.h>
 #include<vector>
